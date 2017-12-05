@@ -1,7 +1,5 @@
 # Curso de Python básico para cientistas de dados
 
-Este é o primeiro de uma série de tutoriais para aqueles estudantes que acabam de iniciar a carreira de cientista de dados.
+Este é o primeiro de uma série de cursos para aqueles estudantes que acabam de iniciar a carreira de cientista de dados.
 
-Este tutorial trata dos tipos de variáveis básicas da linguagem Python. Existem vários exemplos trabalhando as conversões entre variáveis, slicing, sintaxe de métodos e built-in functions.
-
-Enjoy it.
+Os tutoriais nesse repositório tratam dos tipos de variáveis básicas da linguagem Python, como trabalhar com elas e como criar novos objetos. Além disso também são apresentados engenharia e arquitetura de mineração de dados, bem como os métodos e algoritmos mais comuns da área.
