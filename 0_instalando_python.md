@@ -5,7 +5,7 @@
 
 - Crie o ambiente digitando no terminal: `C:/<PATH_PYTHON>/python -m venv env`
 - Ative o ambiente digitando no terminal: `. env/Scripts/activate`
-- Caso queira desativa, no terminal, digite: `deactivate`
+- Caso queira desativar, no terminal, digite: `deactivate`
 - Atualize o pip digitando no terminal:
 ```bash
 C:\<PATH_PYTHON>\python.exe -m pip install --upgrade pip
