@@ -12,12 +12,8 @@ C:\<PATH_PYTHON>\python.exe -m pip install --upgrade pip
 ```
 - Instale as dependências digitando no terminal:
 ```bash
-pip install notebook
-pip install matplotlib
-pip install -U scikit-learn
-pip install pandas
+pip install -r requirements.txt
 ```
-- Para criar o arquivo _requirements.txt_ digite no terminal: `pip freeze > requirements.txt`
 - Por fim copie e cole o arquivo _.gitignore_ deste repositório na sua pasta.
 
 
