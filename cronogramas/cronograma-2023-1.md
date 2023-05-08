@@ -20,75 +20,75 @@
 
 ### Módulo 1 - Introdução a Python
 
-- Aula 01: 22/11 - Objetos e built-in functions no Python
-- Aula 02: 24/11 - For, If-Else, funções, classes e bibliotecas
+- Aula 01: 08/05 - Objetos e built-in functions no Python
+- Aula 02: 10/05 - For, If-Else, funções, classes e bibliotecas
 
 ### Módulo 2 - ETL e EDA
 
-- Aula 03: 29/11 - Biblioteca Pandas
-- Aula 04: 01/12 - Bibliotecas Matplotlib e Seaborn
+- Aula 03: 15/05 - Biblioteca Pandas
+- Aula 04: 17/05 - Bibliotecas Matplotlib e Seaborn
 
-- Aula 05: 06/12 - Estudo de caso: Enem (parte 1) 
-- Aula 06: 08/12 - Estudo de caso: Enem (parte 2)
+- Aula 05: 22/05 - Estudo de caso: Enem (parte 1) 
+- Aula 06: 24/05 - Estudo de caso: Enem (parte 2)
 
 ### Módulo 3 - SQL
 
-- Aula 07: Estudo de caso: Chinok (SQLite3)
-- Aula 08: Estudo de caso: DVD Rental (PostgreSQL)
+- Aula 07: 29/05 - Estudo de caso: Chinok (SQLite3)
+- Aula 08: 31/05 - Estudo de caso: DVD Rental (PostgreSQL)
 
 ### Módulo 4 - Classificação supervisionada
 
-- Aula 09: 13/12 - Estudo de caso: Iris
-- Aula 10: 15/12 - Estudo de caso: Wine 
+- Aula 09: 05/06 - Estudo de caso: Iris
+- Aula 10: 07/06 - Estudo de caso: Wine 
 
-- Aula 11: 03/01 - Estudo de caso: Titanic
-- Aula 12: 05/01 - Atividade avaliativa: Spaceship Titanic
+- Aula 11: 12/06 - Estudo de caso: Titanic
+- Aula 12: 14/06 - Atividade avaliativa: Spaceship Titanic
 
 ### Módulo 5 - Regressão supervisionada
 
-- Aula 13: 10/01 - Estudo de caso: House prices
-- Aula 14: 12/01 - Atividade avaliativa: Restaurant Revenue Prediction
+- Aula 13: 19/06 - Estudo de caso: House prices
+- Aula 14: 21/06 - Atividade avaliativa: Restaurant Revenue Prediction
 
 ### Módulo 6 - Séries temporais
 
-- Aula 15: Estudo de caso: Linces
-- Aula 16: Estudo de caso: Shampoo
+- Aula 15: 26/06 - Estudo de caso: Linces
+- Aula 16: 28/06 - Estudo de caso: Shampoo
 
-- Aula 17: Estudo de caso: Clima (INMET)
-- Aula 18: Atividade avaliativa: Web Traffic Time Series Forecasting
+- Aula 17: 03/07 - Estudo de caso: Clima (INMET)
+- Aula 18: 05/07 - Atividade avaliativa: Web Traffic Time Series Forecasting
 
 ### Módulo 7 - Redução de dimensão
 
-- Aula 19: 17/01 - PCA
-- Aula 20: 19/01 - TSN-e
+- Aula 19: 10/07 - PCA
+- Aula 20: 12/07 - TSN-e
 
 ### Módulo 8 - Redes Neurais artificiais (CNN e LSTM)
 
-- Aula 21: 24/01 - Estudo de caso (CNN): Digits dataset (parte 1) 
-- Aula 22: 26/01 - Estudo de caso (CNN): Digits dataset (parte 2)
+- Aula 21: 17/07 - Estudo de caso (CNN): Digits dataset (parte 1) 
+- Aula 22: 19/07 - Estudo de caso (CNN): Digits dataset (parte 2)
 
-- Aula 23: 31/01 - Estudo de caso (LSTM): IBOVESPA
-- Aula 24: 02/02 - Atividade avaliativa: Cats vs Dogs
+- Aula 23: 24/07 - Estudo de caso (LSTM): IBOVESPA
+- Aula 24: 26/07 - Atividade avaliativa: Cats vs Dogs
 
 ### Módulo 9 - Sistemas de recomendação
 
-- Aula 25: Estudo de caso: Filmes do IMDB
-- Aula 26: Estudo de caso: Anime Recommendations Database
+- Aula 25: 31/07 - Estudo de caso: Filmes do IMDB
+- Aula 26: 02/08 - Estudo de caso: Anime Recommendations Database
 
 ### Módulo 10 - Processamento natural de linguagem
 
-- Aula 27: Estudo de caso: Classificação de sentimentos (parte 1)
-- Aula 28: Estudo de caso: Classificação de sentimentos (parte 2)
+- Aula 27: 07/08 - Estudo de caso: Classificação de sentimentos (parte 1)
+- Aula 28: 09/08 - Estudo de caso: Classificação de sentimentos (parte 2)
 
 ### Módulo 11 - Praticando no mundo real
 
-- Aula 29: Atividade avaliativa - Hackathon com empresas
-- Aula 30: Atividade avaliativa - Hackathon com empresas
+- Aula 29: 16/08 - Atividade avaliativa - Hackathon com empresas
+- Aula 30: 21/08 - Atividade avaliativa - Hackathon com empresas
 
 ### Outras datas
 
-- 2ª chamada: 04/04
-- Exame: 13/04
+- 2ª chamada: 28/08
+- Exame: 13/08
 
 ### Avaliação:
 
@@ -101,6 +101,7 @@ Basta marcar com o professor pelo Discord.
 
 - Python básico:
     - https://penseallen.github.io/PensePython2e/
+    - https://medium.com/@urapython.community/11-conceitos-python-para-iniciantes-em-python-f87d8238fc8
 - Geral:
     - http://guidetodatamining.com/
     - https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados
