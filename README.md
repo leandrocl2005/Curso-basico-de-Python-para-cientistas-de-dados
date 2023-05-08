@@ -5,7 +5,7 @@ Este é um curso para aqueles estudantes que acabam de iniciar a jornada em busc
 ## Sumário
 
 - <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_1.ipynb">Objetos da linguagem Python</a>
-- Condicionais, repetição, funções, classes e bibliotecas
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_2.ipynb">Condicionais, repetição, funções, classes e bibliotecas</a>
 
 - Pandas básico
   - Carregando os dados
