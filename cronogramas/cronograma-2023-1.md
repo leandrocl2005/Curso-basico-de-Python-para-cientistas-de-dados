@@ -57,10 +57,10 @@
 - Aula 17: 03/07 - Estudo de caso: Clima (INMET)
 - Aula 18: 05/07 - Atividade avaliativa: Web Traffic Time Series Forecasting
 
-### Módulo 7 - Redução de dimensão
+### Módulo 7 - Redução de dimensão e agrupamento
 
-- Aula 19: 10/07 - PCA
-- Aula 20: 12/07 - TSN-e
+- Aula 19: 10/07 - PCA e TSN-e
+- Aula 20: 12/07 - Clustering
 
 ### Módulo 8 - Redes Neurais artificiais (CNN e LSTM)
 
