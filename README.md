@@ -6,7 +6,7 @@ Este é um curso para aqueles estudantes que acabam de iniciar a jornada em busc
 
 - <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_1.ipynb">Objetos da linguagem Python</a>
 - <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_2.ipynb">Condicionais, repetição, funções, classes e bibliotecas</a>
-- - <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_3.ipynb">Análise exploratória de dados com Pandas</a>
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_3.ipynb">Análise exploratória de dados com Pandas</a>
 
 - Matplotlib básico
   - Gráfico de barra

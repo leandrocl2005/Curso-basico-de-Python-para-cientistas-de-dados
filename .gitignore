@@ -152,4 +152,5 @@ cython_debug/
 #.idea/
 
 datasets/*
+papers/*
 secrets.md
