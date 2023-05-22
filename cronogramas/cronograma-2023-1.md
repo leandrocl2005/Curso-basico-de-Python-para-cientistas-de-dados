@@ -28,8 +28,8 @@
 - Aula 03: 15/05 - Biblioteca Pandas
 - Aula 04: 17/05 - Bibliotecas Matplotlib e Seaborn
 
-- Aula 05: 22/05 - Estudo de caso: Enem (parte 1) 
-- Aula 06: 24/05 - Estudo de caso: Enem (parte 2)
+- Aula 05: 22/05 - Estudo de caso: Enem 2017 
+- Aula 06: 24/05 - Estudo de caso: SRAG 2020 a 2023
 
 ### Módulo 3 - SQL
 
