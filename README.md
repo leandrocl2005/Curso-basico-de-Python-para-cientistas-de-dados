@@ -16,6 +16,15 @@ Este é um curso para aqueles estudantes que acabam de iniciar a jornada em busc
 - <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_5.ipynb">Estudo de caso: ENEM 2017</a>
   - Gerenciando memória em conjuntos muito grandes
   - Viés de sobrevivência
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_6.ipynb">Estudo de caso: SRAG de 2020 a 2022 (Atividade avaliativa)</a>
+  - Gerenciando memória em conjuntos muito grandes
+  - Viés de sobrevivência
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_7.ipynb">Bancos relacionais e não relacionais</a>
+  - Mongo DB CRUD
+  - SQLite 3 CRUD
+  - SQLite 3 agrupamentos e joins
+  - ORM
+  - Processos de ETL
 - Scikit-learn básico (Classificação)
   - Preparação dos dados
   - Criando conjuntos de treino e teste
