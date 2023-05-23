@@ -154,3 +154,5 @@ cython_debug/
 datasets/*
 papers/*
 secrets.md
+*.db
+*.csv

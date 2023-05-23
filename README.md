@@ -15,6 +15,7 @@ Este é um curso para aqueles estudantes que acabam de iniciar a jornada em busc
   - Gráfico de pizza
 - <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_5.ipynb">Estudo de caso: ENEM 2017</a>
   - Gerenciando memória em conjuntos muito grandes
+  - Viés de sobrevivência
 - Scikit-learn básico (Classificação)
   - Preparação dos dados
   - Criando conjuntos de treino e teste
