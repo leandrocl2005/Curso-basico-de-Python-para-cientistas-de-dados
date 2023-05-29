@@ -4,26 +4,25 @@ Este é um curso para aqueles estudantes que acabam de iniciar a jornada em busc
 
 ## Sumário
 
-- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_1.ipynb">Objetos da linguagem Python</a>
-- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_2.ipynb">Condicionais, repetição, funções, classes e bibliotecas</a>
-- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_3.ipynb">Análise exploratória de dados com Pandas</a>
-- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_4.ipynb">Análise exploratória de dados com Matplotlib e Seaborn</a>
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_01.ipynb">Objetos da linguagem Python</a>
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_02.ipynb">Condicionais, repetição, funções, classes e bibliotecas</a>
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_03.ipynb">Análise exploratória de dados com Pandas</a>
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_04.ipynb">Análise exploratória de dados com Matplotlib e Seaborn</a>
   - Gráfico de barra
   - Gráfico de dispersão
   - Boxplot
   - Histograma
   - Gráfico de pizza
-- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_5.ipynb">Estudo de caso: ENEM 2017</a>
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_05.ipynb">Estudo de caso: ENEM 2017</a>
   - Gerenciando memória em conjuntos muito grandes
   - Viés de sobrevivência
-- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_6.ipynb">Estudo de caso: SRAG de 2020 a 2022 (Atividade avaliativa)</a>
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_06.ipynb">Estudo de caso: SRAG de 2020 a 2022 (Atividade avaliativa)</a>
   - Gerenciando memória em conjuntos muito grandes
   - Viés de sobrevivência
-- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_7.ipynb">Bancos relacionais e não relacionais</a>
-  - Mongo DB CRUD
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_07.ipynb">Bancos relacionais</a>
   - SQLite 3 CRUD
+  - SQLite 3 relacionamentos
   - SQLite 3 agrupamentos e joins
-  - ORM
   - Processos de ETL
 - Scikit-learn básico (Classificação)
   - Preparação dos dados
