@@ -157,3 +157,6 @@ secrets.md
 *.db
 *.csv
 respostas/*
+utils/*
+rascunhos/*.db
+rascunhos/.*
