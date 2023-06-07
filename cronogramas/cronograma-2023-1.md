@@ -36,18 +36,18 @@
 - Aula 07: 29/05 - Estudo de caso: Chinok (SQLite3)
 - Aula 08: 31/05 - Estudo de caso: DVD Rental (PostgreSQL)
 
-### Módulo 4 - Classificação supervisionada
+### Módulo 4 - Regressão supervisionada
 
-- Aula 09: 05/06 - Estudo de caso: Iris
-- Aula 10: 07/06 - Estudo de caso: Wine 
+- Aula 09: 05/06 - Estudo de caso: California Housing
+- Aula 10: 07/06 - Estudo de caso: House prices
 
-- Aula 11: 12/06 - Estudo de caso: Titanic
-- Aula 12: 14/06 - Atividade avaliativa: Spaceship Titanic
+- Aula 11: 12/06 - 
+- Aula 12: 14/06 - Atividade avaliativa: Restaurant Revenue Prediction
 
-### Módulo 5 - Regressão supervisionada
+### Módulo 5 - Classificação supervisionada
 
-- Aula 13: 19/06 - Estudo de caso: House prices
-- Aula 14: 21/06 - Atividade avaliativa: Restaurant Revenue Prediction
+- Aula 13: 19/06 - Estudo de caso: Titanic
+- Aula 14: 21/06 - Atividade avaliativa: Spaceship Titanic
 
 ### Módulo 6 - Séries temporais
 
