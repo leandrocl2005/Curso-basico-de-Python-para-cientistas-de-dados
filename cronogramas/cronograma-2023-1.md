@@ -41,8 +41,8 @@
 - Aula 09: 05/06 - Estudo de caso: California Housing
 - Aula 10: 07/06 - Estudo de caso: House prices
 
-- Aula 11: 12/06 - 
-- Aula 12: 14/06 - Atividade avaliativa: Restaurant Revenue Prediction
+- Aula 11: 12/06 - Stack dos melhores modelos
+- Aula 12: 14/06 - Atividade avaliativa: Gemstone
 
 ### Módulo 5 - Classificação supervisionada
 
