@@ -17,31 +17,34 @@ Este é um curso para aqueles estudantes que acabam de iniciar a jornada em busc
   - Gerenciando memória em conjuntos muito grandes
   - Viés de sobrevivência
 - <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_06.ipynb">Estudo de caso: SRAG de 2020 a 2022 (Atividade avaliativa)</a>
-  - Gerenciando memória em conjuntos muito grandes
-  - Viés de sobrevivência
 - <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_07.ipynb">Bancos relacionais</a>
   - SQLite 3 CRUD
   - SQLite 3 relacionamentos
   - SQLite 3 agrupamentos e joins
   - Processos de ETL
-- Scikit-learn básico (Classificação)
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_08.ipynb">Estudo de caso: Olist dataset (Atividade prática)</a>
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_09.ipynb">Problemas de regressão supervisionada (Parte 1)</a>
+  - Exploração de dados
   - Preparação dos dados
+    - Preenchimento de nulos
+    - Codificação de variáveis categóricas
+    - Transformações
   - Criando conjuntos de treino e teste
   - Modelagem
   - Avaliação do modelo
-  - Tunagem de hiper parâmetros
-- Como competir no Kaggle - Titanic (Classificação)
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_10.ipynb">Estudo de caso: House Prices (Aula prática)</a>
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_11.ipynb">Problemas de regressão supervisionada (Parte 2)</a>
+  - Exploração de dados
   - Preparação dos dados
+    - Preenchimento de nulos
+    - Codificação de variáveis categóricas
+    - Transformações
   - Criando conjuntos de treino e teste
+  - Seleção de modelos*
   - Modelagem
   - Avaliação do modelo
-  - Tunagem de hiper parâmetros
-  - Submissão no kaggle
-- Scikit-learn básico (Regressão)
-  - Preparação dos dados
-  - Criando conjuntos de treino e teste
-  - Modelagem
-  - Avaliação do modelo
-  - Tunagem de hiper parâmetros
+  - Stacking*
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_12.ipynb">Estudo de caso: Gemstone (Atividade avaliativa)</a>
+
 
 
