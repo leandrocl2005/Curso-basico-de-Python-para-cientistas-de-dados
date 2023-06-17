@@ -45,6 +45,20 @@ Este é um curso para aqueles estudantes que acabam de iniciar a jornada em busc
   - Avaliação do modelo
   - Stacking*
 - <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_12.ipynb">Estudo de caso: Gemstone (Atividade avaliativa)</a>
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_13.ipynb">Classificação binária supervisionada (Estudo de caso: Titanic)</a>
+  - Exploração de dados
+  - Preparação dos dados
+    - Preenchimento de nulos
+    - Codificação de variáveis categóricas
+    - Transformações
+    - Criação de variáveis de negócio*
+    - Processamento de strings*
+  - Criando conjuntos de treino e teste
+  - Seleção de modelos*
+  - Modelagem
+  - Tunagem de hiperparâmetros*
+  - Avaliação do modelo
+  - Stacking
 
 
 
