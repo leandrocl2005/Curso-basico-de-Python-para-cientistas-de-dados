@@ -46,8 +46,8 @@
 
 ### Módulo 5 - Classificação supervisionada
 
-- Aula 13: 19/06 - Estudo de caso: Titanic
-- Aula 14: 21/06 - Atividade avaliativa: Spaceship Titanic
+- Aula 13: 19/06 - Classificação binária supervisionada (Estudo de caso: Titanic)
+- Aula 14: 21/06 - Conceitos importantes para classificação. Atividade avaliativa: Prevendo falhas mecânicas
 
 ### Módulo 6 - Séries temporais
 

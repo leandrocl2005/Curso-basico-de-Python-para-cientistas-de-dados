@@ -59,6 +59,20 @@ Este é um curso para aqueles estudantes que acabam de iniciar a jornada em busc
   - Tunagem de hiperparâmetros*
   - Avaliação do modelo
   - Stacking
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_14.ipynb">Classificação multiclasses supervisionada (Estudo de caso: Vinhos)</a>
+  - Importância de variáveis
+  - Sobreajuste (overfitting) e subajuste (underfitting)
+  - Seleção de modelos através de teste de hipóteses
+  - Tunagem por técnicas de otimização com Hyperopt
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_15.ipynb">Agrupamentos (clustering)</a>
+  - Aplicações
+  - K-means
+  - DBSCAN
+  - Hierárquico
+  - Detecção de anomalias com DBSCAN
+  - Criando variáveis para classicação e regressão supervisionadas com K-means
+  - Métodos Elbow e Silhouete para definir número de clusterings
+  - Utilizando clustering para segmentação de imagens
 
 
 
