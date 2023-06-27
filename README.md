@@ -73,6 +73,27 @@ Este é um curso para aqueles estudantes que acabam de iniciar a jornada em busc
   - Criando variáveis para classicação e regressão supervisionadas com K-means
   - Métodos Elbow e Silhouete para definir número de clusterings
   - Utilizando clustering para segmentação de imagens
-
-
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_15.ipynb">Redimensionamento</a>
+  - Seleção de variáveis
+    - Variance Threshold
+    - KBest
+    - Seleção por modelo
+    - Outros métodos
+  - Transformações
+    - PCA
+    - PCA Kernel
+    - Outros métodos
+  - Novas variáveis
+    - Componentes do PCA
+    - Polinomiais
+    - Cluster (visto na aula passada)
+    - Outros métodos
+  - Geração de dados sintéticos
+    - Problema de classes desbalanceadas
+    - SMOTE
+    - Outros métodos
+  - Estudo de caso: Cobb Douglas
+    - Regressão linear com variáveis polinomiais bivariado
+    - Sobreajuste de modelo de regressão linear bivariado
+    - Visualização de modelos de regressão linear bivariado
 
