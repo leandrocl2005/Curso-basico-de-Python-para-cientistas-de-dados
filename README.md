@@ -73,7 +73,7 @@ Este é um curso para aqueles estudantes que acabam de iniciar a jornada em busc
   - Criando variáveis para classicação e regressão supervisionadas com K-means
   - Métodos Elbow e Silhouete para definir número de clusterings
   - Utilizando clustering para segmentação de imagens
-- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_15.ipynb">Redimensionamento</a>
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_16.ipynb">Redimensionamento</a>
   - Seleção de variáveis
     - Variance Threshold
     - KBest
@@ -96,4 +96,27 @@ Este é um curso para aqueles estudantes que acabam de iniciar a jornada em busc
     - Regressão linear com variáveis polinomiais bivariado
     - Sobreajuste de modelo de regressão linear bivariado
     - Visualização de modelos de regressão linear bivariado
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_17.ipynb">Modelagem para séries temporais</a>
+  - Definição de série temporal
+  - Tratando variáveis de datas
+  - Granularidade e agregação
+  - Visualização de séries temporais
+  - Filtro por intervalo de datas
+  - Transformando problemas de séries temporais em regressão supervisionada
+    - Shift
+  - Modelos base para séries temporais
+    - Naive
+    - Random walk
+    - Média móvel
+  - Modelos de regressão para séries temporais
+  - Construção do horizonte de previsão
+    - Estratégia recursiva
+    - Estratégia direta
+    - Estratégia multi-output
+  - Explorando a biblioteca Sktime 
+  - Modelos estatísticos para séries temporais
+    - Arima
+    - Exponencial Smoothing
+  - Incrementando variáveis exôgeneas à metodologia
 
+  

@@ -49,18 +49,18 @@
 - Aula 13: 19/06 - Classificação binária supervisionada (Estudo de caso: Titanic)
 - Aula 14: 21/06 - Conceitos importantes para classificação. Atividade avaliativa: Prevendo falhas mecânicas
 
-### Módulo 6 - Séries temporais
+### Módulo 6 - Redução de dimensão e agrupamento
 
-- Aula 15: 26/06 - Estudo de caso: Linces
-- Aula 16: 28/06 - Estudo de caso: Shampoo
+- Aula 15: 26/06 - PCA e TSN-e Estudo de caso: Linces
+- Aula 16: 28/06 - Clustering Estudo de caso: Shampoo
 
-- Aula 17: 03/07 - Estudo de caso: Clima (INMET)
-- Aula 18: 05/07 - Atividade avaliativa: Web Traffic Time Series Forecasting
+### Módulo 7 - Séries temporais
 
-### Módulo 7 - Redução de dimensão e agrupamento
+- Aula 17: 03/07 - Conceitos de séries temporais (parte 1)
+- Aula 18: 05/07 - Conceitos de séries temporais (parte 1)
 
-- Aula 19: 10/07 - PCA e TSN-e
-- Aula 20: 12/07 - Clustering
+- Aula 19: 10/07 - Estudo de caso: Previsão de temperatura Inmet
+- Aula 20: 12/07 - Atividade avaliativa: Web Traffic Time Series Forecasting
 
 ### Módulo 8 - Redes Neurais artificiais (CNN e LSTM)
 
