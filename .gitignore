@@ -156,6 +156,7 @@ papers/*
 secrets.md
 *.db
 *.csv
+*.ods
 respostas/*
 utils/*
 rascunhos/*
