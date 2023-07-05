@@ -97,26 +97,59 @@ Este é um curso para aqueles estudantes que acabam de iniciar a jornada em busc
     - Sobreajuste de modelo de regressão linear bivariado
     - Visualização de modelos de regressão linear bivariado
 - <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_17.ipynb">Modelagem para séries temporais</a>
-  - Definição de série temporal
-  - Tratando variáveis de datas
-  - Granularidade e agregação
-  - Visualização de séries temporais
-  - Filtro por intervalo de datas
-  - Transformando problemas de séries temporais em regressão supervisionada
-    - Shift
-  - Modelos base para séries temporais
-    - Naive
-    - Random walk
-    - Média móvel
-  - Modelos de regressão para séries temporais
-  - Construção do horizonte de previsão
-    - Estratégia recursiva
-    - Estratégia direta
-    - Estratégia multi-output
-  - Explorando a biblioteca Sktime 
-  - Modelos estatísticos para séries temporais
-    - Arima
-    - Exponencial Smoothing
-  - Incrementando variáveis exôgeneas à metodologia
-
-  
+  - Exemplo de série temporal
+  - Índice com datas
+  - Agrupamento por intervalo de data e agregação
+  - Visualizando séries temporais
+      - Visualizando séries temporais com Pandas
+      - Visualizando séries temporais com Sktime
+  - Filtro por intervalo de data
+  - Janelas de tempos com shift
+  - Séries temporais como regressão supervisionada
+      - Média móvel
+  - Horizonte de previsão com Sktime
+  - Modelagem com Sktime
+      - Auto ARIMA
+      - Exponencial Smoothing
+      - Prophet (Facebook)
+  - Modelagem com Sktime e variáveis exôgeneas
+      - Auto Arima com variáveis exôgenas
+  - Separação de treino e teste com Sktime
+  - Modelos de regressão do Sklearn com Sktime
+      - Gradient boosting apenas com a endogênea
+      - Gradient boosting com exôgeneas
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_18.ipynb">Transformações e testes em séries temporais</a>
+  - Variância e transformação logarítmica
+  - Tendência e ajuste de curvas
+  - Sazonalidade e diferenciação aditiva e multiplicativa
+  - Estacionariedade
+    - Teste Augmented Dickey-Fuller (ADF)
+    - Teste Kwiatkowski-Phillips-Schmidt-Shin (KPSS)
+  - Ruído branco
+    - Teste Ljung-Box 
+  - Normalidade
+    - Teste Shapiro Wilk 
+    - QQplot
+    - Histograma
+    - Teste Kolmogorov-Smirnov
+    - Estratégias de normalização
+  - Gráfico da função de auto correlação
+  - Modelo auto-regressivo (AR)
+  - Gráfico da função de auto correlação parcial
+  - Modelo de média móvel (MA)
+  - Modelo auto-regressivo de média móvel (ARMA)
+  - Modelo auto-regressivo de média móvel com diferenciação (ARIMA)
+  - Modelo SARIMAX
+  - Métricas
+    - SMAPE
+    - MAPE
+    - EVS
+  - Estudo de caso Godaddy
+  - Transformações inversas
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_18.ipynb">Boas práticas e pipelines</a>
+  - Refatorando o código
+  - Princípio DRY
+  - Pipelines
+  - Criando seus próprios modelos e transformações para pipelines
+  - Tunando pipelines
+  - Documentando resultados
