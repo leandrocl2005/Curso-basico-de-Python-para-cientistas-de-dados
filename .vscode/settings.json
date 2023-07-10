@@ -1,8 +1,8 @@
 {
     "python.formatting.provider": "black",
-    "editor.formatOnSave": false,
-    "editor.fontSize": 22,
-    "editor.tabSize": 2,
+    "editor.formatOnSave": true,
+    "editor.fontSize": 28,
+    "editor.tabSize": 4,
     "editor.codeActionsOnSave": {
         "source.organizeImports": true
     },
