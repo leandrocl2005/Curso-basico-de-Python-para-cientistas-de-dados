@@ -147,9 +147,18 @@ Este é um curso para aqueles estudantes que acabam de iniciar a jornada em busc
   - Estudo de caso Godaddy
   - Transformações inversas
 - <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_18.ipynb">Boas práticas e pipelines</a>
-  - Refatorando o código
-  - Princípio DRY
+  - Princípio DRY e funções
+  - Documentando funções
+  - Tipando funções
+  - PEP8 e flake
+  - Vs Code extensions
+    - Bracket Pair Colorizer
+    - Path Intellisense
+    - Python Dockstring. generator
+    - Python Indent
+    - Python Type Hint
+    - TODO Tree
+    - Pylance
   - Pipelines
-  - Criando seus próprios modelos e transformações para pipelines
+  - Pipelines personalizados
   - Tunando pipelines
-  - Documentando resultados

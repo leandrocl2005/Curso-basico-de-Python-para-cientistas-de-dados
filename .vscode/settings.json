@@ -1,0 +1,20 @@
+{
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": false,
+    "editor.fontSize": 22,
+    "editor.tabSize": 2,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    },
+    "isort.args":["--profile", "black"],
+    "python.languageServer": "Pylance",
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.linting.flake8Args": [
+        "--ignore=E203",
+        "--ignore=E266",
+        "--ignore=E501",
+        "--ignore=W503",
+        "--max-line-length=88"
+    ],
+  }
