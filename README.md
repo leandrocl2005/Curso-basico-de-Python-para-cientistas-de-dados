@@ -40,10 +40,10 @@ Este é um curso para aqueles estudantes que acabam de iniciar a jornada em busc
     - Codificação de variáveis categóricas
     - Transformações
   - Criando conjuntos de treino e teste
-  - Seleção de modelos*
+  - Seleção de modelos\*
   - Modelagem
   - Avaliação do modelo
-  - Stacking*
+  - Stacking\*
 - <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_12.ipynb">Estudo de caso: Gemstone (Atividade avaliativa)</a>
 - <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_13.ipynb">Classificação binária supervisionada (Estudo de caso: Titanic)</a>
   - Exploração de dados
@@ -51,12 +51,12 @@ Este é um curso para aqueles estudantes que acabam de iniciar a jornada em busc
     - Preenchimento de nulos
     - Codificação de variáveis categóricas
     - Transformações
-    - Criação de variáveis de negócio*
-    - Processamento de strings*
+    - Criação de variáveis de negócio\*
+    - Processamento de strings\*
   - Criando conjuntos de treino e teste
-  - Seleção de modelos*
+  - Seleção de modelos\*
   - Modelagem
-  - Tunagem de hiperparâmetros*
+  - Tunagem de hiperparâmetros\*
   - Avaliação do modelo
   - Stacking
 - <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_14.ipynb">Classificação multiclasses supervisionada (Estudo de caso: Vinhos)</a>
@@ -101,23 +101,23 @@ Este é um curso para aqueles estudantes que acabam de iniciar a jornada em busc
   - Índice com datas
   - Agrupamento por intervalo de data e agregação
   - Visualizando séries temporais
-      - Visualizando séries temporais com Pandas
-      - Visualizando séries temporais com Sktime
+    - Visualizando séries temporais com Pandas
+    - Visualizando séries temporais com Sktime
   - Filtro por intervalo de data
   - Janelas de tempos com shift
   - Séries temporais como regressão supervisionada
-      - Média móvel
+    - Média móvel
   - Horizonte de previsão com Sktime
   - Modelagem com Sktime
-      - Auto ARIMA
-      - Exponencial Smoothing
-      - Prophet (Facebook)
+    - Auto ARIMA
+    - Exponencial Smoothing
+    - Prophet (Facebook)
   - Modelagem com Sktime e variáveis exôgeneas
-      - Auto Arima com variáveis exôgenas
+    - Auto Arima com variáveis exôgenas
   - Separação de treino e teste com Sktime
   - Modelos de regressão do Sklearn com Sktime
-      - Gradient boosting apenas com a endogênea
-      - Gradient boosting com exôgeneas
+    - Gradient boosting apenas com a endogênea
+    - Gradient boosting com exôgeneas
 - <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_18.ipynb">Transformações e testes em séries temporais</a>
   - Variância e transformação logarítmica
   - Tendência e ajuste de curvas
@@ -126,9 +126,9 @@ Este é um curso para aqueles estudantes que acabam de iniciar a jornada em busc
     - Teste Augmented Dickey-Fuller (ADF)
     - Teste Kwiatkowski-Phillips-Schmidt-Shin (KPSS)
   - Ruído branco
-    - Teste Ljung-Box 
+    - Teste Ljung-Box
   - Normalidade
-    - Teste Shapiro Wilk 
+    - Teste Shapiro Wilk
     - QQplot
     - Histograma
     - Teste Kolmogorov-Smirnov
@@ -162,3 +162,7 @@ Este é um curso para aqueles estudantes que acabam de iniciar a jornada em busc
   - Pipelines
   - Pipelines personalizados
   - Tunando pipelines
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_18.ipynb">ATIVIDADE AVALIATIVA e Estudo de caso: Previsão de dados Climáticos</a>
+  - Baixando dados de clima do Inmet
+  - Prevendo a máxima temperatura diária para 14 dias com AutoARIMA e sem variáveis exôgeneas
+  - Prevendo a máxima temperatura diária para 14 dias com AutoARIMA e com variáveis exôgeneas
