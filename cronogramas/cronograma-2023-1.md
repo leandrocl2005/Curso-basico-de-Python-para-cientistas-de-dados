@@ -28,7 +28,7 @@
 - Aula 03: 15/05 - Biblioteca Pandas
 - Aula 04: 17/05 - Bibliotecas Matplotlib e Seaborn
 
-- Aula 05: 22/05 - Estudo de caso: Enem 2017 
+- Aula 05: 22/05 - Estudo de caso: Enem 2017
 - Aula 06: 24/05 - Estudo de caso: SRAG 2020 a 2023
 
 ### Módulo 3 - SQL
@@ -64,7 +64,7 @@
 
 ### Módulo 8 - Redes Neurais artificiais (CNN e LSTM)
 
-- Aula 21: 17/07 - Estudo de caso (CNN): Digits dataset (parte 1) 
+- Aula 21: 17/07 - Estudo de caso (CNN): Digits dataset (parte 1)
 - Aula 22: 19/07 - Estudo de caso (CNN): Digits dataset (parte 2)
 
 - Aula 23: 24/07 - Estudo de caso (LSTM): IBOVESPA
@@ -85,31 +85,26 @@
 - Aula 29: 16/08 - Atividade avaliativa - Hackathon com empresas
 - Aula 30: 21/08 - Atividade avaliativa - Hackathon com empresas
 
-### Outras datas
-
-- 2ª chamada: 28/08
-- Exame: 13/08
-
 ### Avaliação:
 
-Cada atividade avaliativa contém pontuações mínimas e máximas. Ao entregar a atividade com pontuação mínima, a nota é 4. Ao entregar a atividade com pontuação máxima, a nota é 10. Pontuações intermediárias entre a mínima e a máxima terão notas proporcionais. Ao pontuar X% da pontuação mínima, onde 0 <= X < 100, o aluno obterá X% de 4 como nota. A nota final é composta pela média aritmética simples das notas de todas as atividades avaliativas. 
+Cada atividade avaliativa contém pontuações mínimas e máximas. Ao entregar a atividade com pontuação mínima, a nota é 4. Ao entregar a atividade com pontuação máxima, a nota é 10. Pontuações intermediárias entre a mínima e a máxima terão notas proporcionais. Ao pontuar X% da pontuação mínima, onde 0 <= X < 100, o aluno obterá X% de 4 como nota. A nota final é composta pela média aritmética simples das notas de todas as atividades avaliativas.
 
 ### Horários de atendimento:
+
 Basta marcar com o professor pelo Discord.
 
 ### Bibliografia:
 
 - Python básico:
-    - https://penseallen.github.io/PensePython2e/
-    - https://medium.com/@urapython.community/11-conceitos-python-para-iniciantes-em-python-f87d8238fc8
+  - https://penseallen.github.io/PensePython2e/
+  - https://medium.com/@urapython.community/11-conceitos-python-para-iniciantes-em-python-f87d8238fc8
 - Geral:
-    - http://guidetodatamining.com/
-    - https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados
-    - https://www.geeksforgeeks.org/data-science-tutorial/
-    - Géron, A.; Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems. O'Reilly Media. 2019
+  - http://guidetodatamining.com/
+  - https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados
+  - https://www.geeksforgeeks.org/data-science-tutorial/
+  - Géron, A.; Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems. O'Reilly Media. 2019
 - Pandas e análise exploratória de dados:
-    - https://medium.com/@leandrocruvinel/transformando-dados-com-python-e-pandas-parte-1-3eeccf52eece
-    - https://github.com/leandrocl2005/enen-eda-with-python
+  - https://medium.com/@leandrocruvinel/transformando-dados-com-python-e-pandas-parte-1-3eeccf52eece
+  - https://github.com/leandrocl2005/enen-eda-with-python
 - Banco de dados SQL:
-    - https://www.geeksforgeeks.org/python-sqlite/
-
+  - https://www.geeksforgeeks.org/python-sqlite/
