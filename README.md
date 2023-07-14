@@ -146,7 +146,7 @@ Este é um curso para aqueles estudantes que acabam de iniciar a jornada em busc
     - EVS
   - Estudo de caso Godaddy
   - Transformações inversas
-- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_18.ipynb">Boas práticas e pipelines</a>
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_19.ipynb">Boas práticas e pipelines</a>
   - Princípio DRY e funções
   - Documentando funções
   - Tipando funções
@@ -162,7 +162,33 @@ Este é um curso para aqueles estudantes que acabam de iniciar a jornada em busc
   - Pipelines
   - Pipelines personalizados
   - Tunando pipelines
-- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_18.ipynb">ATIVIDADE AVALIATIVA e Estudo de caso: Previsão de dados Climáticos</a>
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_20.ipynb">ATIVIDADE AVALIATIVA e Estudo de caso: Previsão de dados Climáticos</a>
   - Baixando dados de clima do Inmet
   - Prevendo a máxima temperatura diária para 14 dias com AutoARIMA e sem variáveis exôgeneas
   - Prevendo a máxima temperatura diária para 14 dias com AutoARIMA e com variáveis exôgeneas
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_21.ipynb">Classificação supervisionada com redes neurais</a>
+  - Arquitetura de uma rede neural
+    - Camadas:
+      - Dense
+      - Flatten
+      - Dropout
+      - Conv2D
+      - MaxPooling\*
+    - Funções de ativação
+      - ReLu
+      - Softmax
+  - Foward Propagation
+  - Função de perda
+    - log loss\*
+  - Otimizador
+  - Back Propagation
+  - Épocas
+  - Estudo de caso: Iris dataset
+    - Experimento 1: Dense(2)+Relu -> Dense(3)+ReLu -> Dense(3)+Softmax com 20 épocas
+    - Experimento 2: Dense(20)+Relu -> Dense(30)+ReLu -> Dense(3)+Softmax com 20 épocas
+    - Experimento 3: Dense(20)+Relu -> Dense(30)+ReLu -> Dense(3)+Softmax com 200 épocas
+  - Estudo de caso: MNIST dataset
+    - Preparando imagens
+    - Batch size\*
+    - Data augmentation
+  - Usando GPU no Google Colab
