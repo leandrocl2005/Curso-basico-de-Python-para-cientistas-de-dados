@@ -166,7 +166,7 @@ Este é um curso para aqueles estudantes que acabam de iniciar a jornada em busc
   - Baixando dados de clima do Inmet
   - Prevendo a máxima temperatura diária para 14 dias com AutoARIMA e sem variáveis exôgeneas
   - Prevendo a máxima temperatura diária para 14 dias com AutoARIMA e com variáveis exôgeneas
-- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_21.ipynb">Classificação supervisionada com redes neurais</a>
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_21.ipynb">Classificação supervisionada com redes neurais Perceptrons e Convolucionais</a>
   - Arquitetura de uma rede neural
     - Camadas:
       - Dense
@@ -192,3 +192,18 @@ Este é um curso para aqueles estudantes que acabam de iniciar a jornada em busc
     - Batch size\*
     - Data augmentation
   - Usando GPU no Google Colab
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_22.ipynb">Gerando conversas e classificando sentimentos com redes neurais recorrentes</a>
+  - Ganhando desempenho com Tensorflow e GPU's
+  - Salvando e carregando modelos de redes neurais pré-treinados
+  - Extendendo modelos de redes neurais
+  - Estudo de caso: Classificando imagens com VGG16
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_23.ipynb">Gerando conversas e classificando sentimentos com redes neurais recorrentes</a>
+  - Revisão de redes neurais profundas (DFF)
+  - Exemplo de DFF com Iris dataset
+  - Conjunto de treino, de teste e de validação!
+  - Otimizando o número de épocas para evitar overfitting
+  - Problema do desaparecimento do gradiente
+  - Entendendo o que são redes neurais recorrentes
+  - Fazendo seu próprio gerador de textos usando Lusíadas de Luís Vaz de Camões
+  - Análise de sentimentos com redes neurais recorrentes
+  - Estudo de caso: Avaliando reviews de filmes (IMDB)

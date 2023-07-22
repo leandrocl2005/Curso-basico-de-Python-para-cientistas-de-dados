@@ -62,13 +62,13 @@
 - Aula 19: 10/07 - Estudo de caso: Previsão de temperatura Inmet
 - Aula 20: 12/07 - Atividade avaliativa: Web Traffic Time Series Forecasting
 
-### Módulo 8 - Redes Neurais artificiais (CNN e LSTM)
+### Módulo 8 - Redes Neurais artificiais (ANN, CNN, RNN e LSTM)
 
-- Aula 21: 17/07 - Estudo de caso (CNN): Digits dataset (parte 1)
-- Aula 22: 19/07 - Estudo de caso (CNN): Digits dataset (parte 2)
+- Aula 21: 17/07 - Estudo de caso (ANN e CNN): Digits dataset
+- Aula 22: 19/07 - Deep learning com VGG16
 
-- Aula 23: 24/07 - Estudo de caso (LSTM): IBOVESPA
-- Aula 24: 26/07 - Atividade avaliativa: Cats vs Dogs
+- Aula 23: 24/07 - Redes neurais recorrentes (RNN): Gerando conversas como ChatGPT
+- Aula 24: 26/07 - Atividade avaliativa: Cats vs Dogs & Prevendo preços de ações (LSTM)
 
 ### Módulo 9 - Sistemas de recomendação
 
