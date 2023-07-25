@@ -192,7 +192,7 @@ Este é um curso para aqueles estudantes que acabam de iniciar a jornada em busc
     - Batch size\*
     - Data augmentation
   - Usando GPU no Google Colab
-- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_22.ipynb">Gerando conversas e classificando sentimentos com redes neurais recorrentes</a>
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_22.ipynb">Acelerando treinamento de redes neurais com modelos pré-treinados e tensorflow com GPU</a>
   - Ganhando desempenho com Tensorflow e GPU's
   - Salvando e carregando modelos de redes neurais pré-treinados
   - Extendendo modelos de redes neurais
