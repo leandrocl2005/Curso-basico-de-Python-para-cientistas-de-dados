@@ -207,3 +207,40 @@ Este é um curso para aqueles estudantes que acabam de iniciar a jornada em busc
   - Fazendo seu próprio gerador de textos usando Lusíadas de Luís Vaz de Camões
   - Análise de sentimentos com redes neurais recorrentes
   - Estudo de caso: Avaliando reviews de filmes (IMDB)
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_24.ipynb">Word embeedings e LSTM</a>
+  - Limpeza de dados textuais
+  - Gerenciamento de memória
+  - Vetorização com TF-IDF
+  - Classificador Naive Bayes para modelos Bernoulli multivariados
+  - Vetorização OneHot
+  - Keras Embeeding
+  - LSTM para previsão de séries temporais
+  - Estudo de caso: Previsão do valor de fechamento de ações da bolsa
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_25.ipynb">Sistemas de recomendação</a>
+  - Filtragem colaborativa
+  - Medidas de similaridade
+  - Filtragem baseada em conteúdo
+  - Apriori
+  - Métricas do Apriori: Support, Confidence, Lift, Leverage, Conviction
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_26.ipynb">Estudos de casos: Sistema de recomendação de Músicas, Filmes, Textos e Jogos de tabuleiro</a>
+  - Biblioteca surprise
+  - Recomendações com SVD
+  - Recomendações com KNN
+  - Extração de tópicos com TF-IDF e NMF
+  - Estudo de caso: recomendação de jogos de tabuleiro com extração de dados de API com resposta em XML
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_27.ipynb">Processamento natural de linguagem</a>
+  - Biblioteca spacy
+  - Documentos, tokens e spans
+  - Propriedades dos tokens
+  - Dependências universais
+  - Spacy Matcher
+  - Aplicação em pré-processamento de dados textuais
+  - Extração e classificação de entidades no texto
+  - Transformers pré-treinados (modelos BERT)
+  - Classificação multi-task de textos
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_28.ipynb">Outras aplicações com Difusers e interfaces web para protótipos de modelos aprendizado de máquina</a>
+  - Texto para imagem
+  - Imagem para texto
+  - Texto para vídeo
+  - Imagem para Imagem (Pix2Pix)
+  - Interfaces gráficas com Gradio
