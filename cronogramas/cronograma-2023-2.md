@@ -8,8 +8,8 @@
 
 ## Turmas
 
-- P01 Laboratório PROFMAT (N2017) - 14:50 - 16:30
-- P02 Laboratório PROFMAT (N2017) - 16:50 - 18:30
+- P01 Laboratório PROFMAT (N217) - 14:50 - 16:30
+- P02 Laboratório PROFMAT (N217) - 16:50 - 18:30
 
 ## Canal do discord
 
