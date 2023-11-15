@@ -2,6 +2,11 @@
 
 Este é um curso para aqueles estudantes que acabam de iniciar a jornada em busca de uma carreira de cientista de dados.
 
+## Configuração
+
+- Windows 11
+- Python 3.8.6
+
 ## Sumário
 
 - <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados/blob/master/aulas/cd_aula_01.ipynb">Objetos da linguagem Python</a>
