@@ -1,20 +1,9 @@
 {
-    "python.formatting.provider": "black",
     "editor.formatOnSave": true,
-    "editor.fontSize": 18,
+    "editor.fontSize": 24,
     "editor.tabSize": 4,
-    "editor.codeActionsOnSave": {
-        "source.organizeImports": "explicit"
+    "[python]": {
+        "editor.formatOnType": true,
+        "editor.defaultFormatter": "ms-python.black-formatter"
     },
-    "isort.args":["--profile", "black"],
-    "python.languageServer": "Pylance",
-    "python.linting.enabled": true,
-    "python.linting.flake8Enabled": true,
-    "python.linting.flake8Args": [
-        "--ignore=E203",
-        "--ignore=E266",
-        "--ignore=E501",
-        "--ignore=W503",
-        "--max-line-length=88"
-    ],
-  }
+}
